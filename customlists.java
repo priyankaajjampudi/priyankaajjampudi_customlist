@@ -34,7 +34,6 @@ public class customlists {
      
     private Object elements[];
  
-    //Default constructor
     public DataList() {
         elements = new Object[10];
     }
